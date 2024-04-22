@@ -4,6 +4,19 @@
 
 Convert RGB Image to ASCII image for humans.
 
+## Code Requirements 🦄
+You can install Conda for python which resolves all the dependencies for machine learning.
 
-## Reference
+`pip install -r requirements.txt`
+
+## Execution 🐉
+
+```
+python3 ascinator.py
+```
+
+###### Made with ❤️ and 🦙 by Akshay Bahadur
+
+## References 🔱
+
 - https://github.com/eebmagic/video_text_filter
