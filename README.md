@@ -15,6 +15,13 @@ You can install Conda for python which resolves all the dependencies for machine
 python3 ascinator.py
 ```
 
+## Results 📊
+<div align="center">
+
+<p align="center"> <img src="https://github.com/akshaybahadur21/BLOB/blob/master/ascinator.gif"></p>
+
+</div>
+
 ###### Made with ❤️ and 🦙 by Akshay Bahadur
 
 ## References 🔱
