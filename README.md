@@ -18,7 +18,7 @@ python3 ascinator.py
 ## Results 📊
 <div align="center">
 
-<p align="center"> <img src="https://github.com/akshaybahadur21/BLOB/blob/master/ascinator.gif"></p>
+<p align="center"> <img src="https://github.com/akshaybahadur21/BLOB/blob/master/ascinator_1.gif"></p>
 
 </div>
 
