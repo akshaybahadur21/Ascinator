@@ -27,3 +27,13 @@ python3 ascinator.py
 ## References 🔱
 
 - https://github.com/eebmagic/video_text_filter
+
+```
+@article{akshaybahadur21_ascinator,
+author = {Bahadur, Akshay},
+journal = {https://github.com/akshaybahadur21/Ascinator},
+month = {04},
+title = {{Ascinator}},
+year = {2024}
+}
+```
