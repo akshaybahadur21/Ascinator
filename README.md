@@ -26,6 +26,8 @@ python3 ascinator.py
 
 - https://github.com/eebmagic/video_text_filter
 
+## Cite Us :pushpin:
+
 ```
 @article{akshaybahadur21_ascinator,
 author = {Bahadur, Akshay},
