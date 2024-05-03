@@ -22,8 +22,6 @@ python3 ascinator.py
 
 </div>
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
-
 ## References 🔱
 
 - https://github.com/eebmagic/video_text_filter
@@ -37,3 +35,11 @@ title = {{Ascinator}},
 year = {2024}
 }
 ```
+
+<div align="center">
+
+<p align="center"> Made with ❤️ and 🦙 by Akshay Bahadur </p>
+
+</div>
+
+
